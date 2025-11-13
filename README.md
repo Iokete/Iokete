@@ -26,6 +26,15 @@
 
 </details>
 
+<details>
+    <summary><strong>Exploitation techniques</strong></summary>
+
+- [house of force](https://github.com/Iokete/writeups/tree/main/pwn/techniques/house.of.force)<br>
+	
+ 	> top chunk size corruption to achieve arbitrary write
+
+
+</details>
 ## Useful resources 
 
 - **Stack**
