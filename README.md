@@ -2,12 +2,31 @@
 
 - Welcome, here you will find all my pwn related writeups and resources.
 
-### Writeups
+## Writeups
 
-- **HTB: Magic Scrolls** - [writeup](https://github.com/Iokete/writeups/tree/main/pwn/htb.magic.scrolls.heap) -> OOB write to achieve arb read/free into tcache poisoning via overlapping chunks
-- **URJC: GestorCuentas** - [writeup](https://github.com/Iokete/writeups/tree/main/pwn/tls.dtor.overwrite.gestorcuentas) -> Arbitrary write TLS Storage dtor_list overwrite to achieve RCE
+<details>
+    <summary><strong>Hack The Box Writeups</strong></summary>
 
-### Useful resources 
+- [HTB: Magic Scrolls](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.magic.scrolls.heap)
+  	> OOB write to achieve arb read/free into tcache poisoning via overlapping chunks
+
+- [HTB: Sound of Silence](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.sound.of.silence)
+	> rop chain, register reuse
+
+</details>
+
+<details>
+    <summary><strong>URJC CTF Introductory Course Writeups</strong></summary>
+
+- [URJC: GestorCuentas](https://github.com/Iokete/writeups/tree/main/pwn/tls.dtor.overwrite.gestorcuentas)
+	> arbitrary write TLS Storage dtor_list overwrite to achieve RCE
+
+- [Kebab Amigo II](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/kebab.amigo.ii.rop)
+	> incorrect `scanf` formatting, buffer overflow, ret2libc
+
+</details>
+
+## Useful resources 
 
 - **Stack**
     - [Stack Data Structure](https://www.programiz.com/dsa/stack)
