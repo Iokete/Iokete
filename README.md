@@ -18,7 +18,7 @@
 <details>
     <summary><strong>URJC CTF Introductory Course Writeups</strong></summary>
 
-- [URJC: GestorCuentas](https://github.com/Iokete/writeups/tree/main/pwn/tls.dtor.overwrite.gestorcuentas)
+- [URJC: GestorCuentas](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/tls.dtor.overwrite.gestorcuentas)
 	> arbitrary write TLS Storage dtor_list overwrite to achieve RCE
 
 - [Kebab Amigo II](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/kebab.amigo.ii.rop)
