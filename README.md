@@ -38,7 +38,7 @@
 
 ## Useful resources 
 
-<details>
+<details open>
 	<summary><strong>Stack</strong></summary>
 	
 - [Stack Data Structure](https://www.programiz.com/dsa/stack)
@@ -60,7 +60,7 @@
 	
 </details>
 
-<details>
+<details open>
 <summary><strong>General</strong></summary>
 	
 - [Nightmare](https://guyinatuxedo.github.io/)
@@ -80,7 +80,7 @@
 	
 </details>
 		
-<details>
+<details open>
 	<summary><strong>Fuzzing</strong></summary>
 
 - [Fuzzing.in](https://fuzzing.in/)
@@ -88,7 +88,7 @@
 	
 </details>
 
-<details>
+<details open>
 <summary><strong>Kernel</strong></summary>
 	
 - [So You Wanna Pwn The Kernel?](https://sam4k.com/so-you-wanna-pwn-the-kernel/#ego)
@@ -117,7 +117,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>FSOP</strong></summary>
 	
 - [Roderick Chan - house of apple 1](https://roderickchan.github.io/zh-cn/house-of-apple-%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84glibc%E4%B8%ADio%E6%94%BB%E5%87%BB%E6%96%B9%E6%B3%95-1/)
@@ -128,7 +128,7 @@
 - 
 </details>
 
-<details>
+<details open>
 <summary><strong>Shellcoding</strong></summary>
 	
 - [x64.syscall.sh](https://x64.syscall.sh/): Your cheat sheet for syscalls. A glance here, and you're always ahead.
@@ -138,7 +138,7 @@
 
 </details>
 
-<details>
+<details open>
 	
 
 <summary><strong>Windows</strong></summary>
@@ -149,7 +149,7 @@
 - [https://fuzzysecurity.com/tutorials.html](https://fuzzysecurity.com/tutorials.html)
 </details>
 
-<details>
+<details open>
 	
 <summary><strong>ARM</strong></summary>
 
