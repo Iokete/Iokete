@@ -7,10 +7,10 @@
 <details>
     <summary><strong>Hack The Box Writeups</strong></summary>
 
-- [Magic Scrolls](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.magic.scrolls.heap)
+- [magic scrolls](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.magic.scrolls.heap)
   	> OOB write to achieve arb read/free into tcache poisoning via overlapping chunks
 
-- [Sound of Silence](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.sound.of.silence)
+- [sound of silence](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.sound.of.silence)
 	> rop chain, register reuse
 
 </details>
