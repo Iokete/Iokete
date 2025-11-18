@@ -31,7 +31,7 @@
 
 - [house of force](https://github.com/Iokete/writeups/tree/main/pwn/techniques/house.of.force)<br>
 	
- 	> top chunk size corruption to achieve arbitrary write
+ 	> top chunk size corruption to achieve arbitrary write, rce via `__malloc_hook` overwrite
 
 
 </details>
