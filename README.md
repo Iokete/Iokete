@@ -110,6 +110,11 @@
 - [https://r1ru.github.io/posts/6/](https://r1ru.github.io/posts/6/)
 - [More kernel ROP](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/linux-kernel-rop-ropping-your-way-to-part-1)
 - [kernel useful structures](https://ptr-yudai.hatenablog.com/entry/2020/03/16/165628)
+- [https://blog.lizzie.io/using-userfaultfd.html](https://blog.lizzie.io/using-userfaultfd.html)
+- [https://www.willsroot.io/2020/10/cuctf-2020-hotrod-kernel-writeup.html](https://www.willsroot.io/2020/10/cuctf-2020-hotrod-kernel-writeup.html)
+- [https://duasynt.com/blog/linux-kernel-heap-spray](https://duasynt.com/blog/linux-kernel-heap-spray)
+- [https://theori.io/blog/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch](https://theori.io/blog/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch)
+- 
   
 </details>
 
@@ -165,5 +170,6 @@
 - [https://academy.8ksec.io/course/arm-exploitation-challenges](https://academy.8ksec.io/course/arm-exploitation-challenges)
 - [https://pwn.college/arm-architecture/](https://pwn.college/arm-architecture/)
 - [https://pwn.college/xnu/](https://pwn.college/xnu/)
+- [https://pacmanattack.com/](https://pacmanattack.com/)
   
 </details>
