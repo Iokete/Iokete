@@ -114,11 +114,10 @@
 - [https://www.willsroot.io/2020/10/cuctf-2020-hotrod-kernel-writeup.html](https://www.willsroot.io/2020/10/cuctf-2020-hotrod-kernel-writeup.html)
 - [https://duasynt.com/blog/linux-kernel-heap-spray](https://duasynt.com/blog/linux-kernel-heap-spray)
 - [https://theori.io/blog/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch](https://theori.io/blog/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch)
-- 
   
 </details>
 
-<details>
+<details open>
 	
 <summary><strong>Heap</strong></summary>
 
