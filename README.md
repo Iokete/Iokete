@@ -138,7 +138,7 @@
 - [Roderick Chan - house of apple 3](https://roderickchan.github.io/zh-cn/house-of-apple-%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84glibc%E4%B8%ADio%E6%94%BB%E5%87%BB%E6%96%B9%E6%B3%95-3/)
 - [Kyle bot - angry-FSOP - using angr to explore FSOP path](https://blog.kylebot.net/2022/10/22/angry-FSROP/)
 - [Nifitic - Deep dive into FSOP](https://niftic.ca/posts/fsop/)
-- 
+
 </details>
 
 <details open>
