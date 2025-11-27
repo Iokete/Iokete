@@ -33,7 +33,16 @@
 	
  	> top chunk size corruption to achieve arbitrary write, rce via `__malloc_hook` overwrite
 
+</details>
 
+<details>
+    <summary><strong>PatriotCTF 2025</strong></summary>
+
+- [wowsay](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/wowsay)
+  	> blind pwn, fmt str
+
+- [cursed format](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/cursed.format)
+	> rop chain, fmt str - TODO
 </details>
 
 ## Useful resources 
