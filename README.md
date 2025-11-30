@@ -42,7 +42,7 @@
   	> blind pwn, fmt str
 
 - [cursed format](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/cursed.format)
-	> rop chain, fmt str - TODO
+	> rop chain, fmt str
 </details>
 
 ## Useful resources 
