@@ -4,19 +4,11 @@
 
 ## Writeups
 
-<details open>
-    <summary><strong>Hack The Box Writeups</strong></summary>
-
 - [magic scrolls](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.magic.scrolls.heap)
   	> OOB write to achieve arb read/free into tcache poisoning via fake chunk
 
 - [sound of silence](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.sound.of.silence)
 	> rop chain, register reuse
-
-</details>
-
-<details open>
-    <summary><strong>URJC CTF Introductory Course Writeups</strong></summary>
 
 - [gestorcuentas](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/tls.dtor.overwrite.gestorcuentas)
 	> arbitrary write TLS Storage dtor_list overwrite to achieve RCE
@@ -24,26 +16,15 @@
 - [kebab amigo II](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/kebab.amigo.ii.rop)
 	> incorrect `scanf` formatting, buffer overflow, ret2libc
 
-</details>
-
-<details>
-    <summary><strong>Exploitation techniques</strong></summary>
-
 - [house of force](https://github.com/Iokete/writeups/tree/main/pwn/techniques/house.of.force)<br>
 	
  	> top chunk size corruption to achieve arbitrary write, rce via `__malloc_hook` overwrite
-
-</details>
-
-<details open>
-    <summary><strong>PatriotCTF 2025</strong></summary>
 
 - [wowsay](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/wowsay)
   	> blind pwn, fmt str
 
 - [cursed format](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/cursed.format)
 	> rop chain, fmt str
-</details>
 
 ## Useful resources 
 
