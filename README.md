@@ -47,6 +47,8 @@
 
 ## Useful resources 
 
+Collection of different blogs posts, links, websites and other resources I have used (and still use) to learn new techniques
+
 <details open>
 	<summary><strong>Stack</strong></summary>
 	
