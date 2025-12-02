@@ -4,7 +4,7 @@
 
 ## Writeups
 
-<details>
+<details open>
     <summary><strong>Hack The Box Writeups</strong></summary>
 
 - [magic scrolls](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.magic.scrolls.heap)
@@ -15,7 +15,7 @@
 
 </details>
 
-<details>
+<details open>
     <summary><strong>URJC CTF Introductory Course Writeups</strong></summary>
 
 - [gestorcuentas](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/tls.dtor.overwrite.gestorcuentas)
@@ -35,7 +35,7 @@
 
 </details>
 
-<details>
+<details open>
     <summary><strong>PatriotCTF 2025</strong></summary>
 
 - [wowsay](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/wowsay)
