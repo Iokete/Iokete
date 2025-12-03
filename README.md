@@ -11,7 +11,7 @@
 	> rop chain, register reuse
 
 - [gestorcuentas](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/tls.dtor.overwrite.gestorcuentas)
-	> arbitrary write TLS Storage dtor_list overwrite to achieve RCE
+	> arbitrary write TLS Storage `dtor_list` overwrite to achieve RCE
 
 - [kebab amigo II](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/kebab.amigo.ii.rop)
 	> incorrect `scanf` formatting, buffer overflow, ret2libc
