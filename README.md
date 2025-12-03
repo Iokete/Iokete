@@ -16,6 +16,9 @@
 - [kebab amigo II](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/kebab.amigo.ii.rop)
 	> incorrect `scanf` formatting, buffer overflow, ret2libc
 
+- [story contest](https://github.com/Iokete/writeups/tree/main/pwn/heroctf.2025/storycontest)
+    > race condition to bypass size check, rop chain, ret2win
+
 - [house of force](https://github.com/Iokete/writeups/tree/main/pwn/techniques/house.of.force)<br>
 	
  	> top chunk size corruption to achieve arbitrary write, rce via `__malloc_hook` overwrite
