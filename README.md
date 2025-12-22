@@ -4,6 +4,9 @@
 
 ## Writeups
 
+- [starshard core](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/uni.2025.starshard.core)
+	> leverage UAF to craft a malicious FILE and overwrite `_wide_data` vtable to call an arbitrary function
+ 
 - [magic scrolls](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.magic.scrolls.heap)
   	> OOB write to achieve arb read/free into tcache poisoning via fake chunk
 
