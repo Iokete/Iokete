@@ -14,7 +14,7 @@
 </details>
 
 <details>
-	<summary><strong>UAF / Arbitrary Write</strong></summary>
+	<summary><strong>Heap / Write primitive</strong></summary>
 	
 - [starshard core](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/uni.2025.starshard.core)
 	> leverage UAF to craft a malicious FILE and overwrite `_wide_data` vtable to call an arbitrary function
@@ -23,11 +23,10 @@
   	> OOB write to achieve arb read/free into tcache poisoning via fake chunk
    
 - [house of force](https://github.com/Iokete/writeups/tree/main/pwn/techniques/house.of.force)
-	
  	> top chunk size corruption to achieve arbitrary write, rce via `__malloc_hook` overwrite
 
 - [gestorcuentas](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/tls.dtor.overwrite.gestorcuentas)
-	> arbitrary write TLS Storage `dtor_list` overwrite to achieve RCE
+	> TLS Storage `dtor_list` overwrite to achieve RCE
 
 - [wowsay](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/wowsay)
   	> blind pwn, fmt str
