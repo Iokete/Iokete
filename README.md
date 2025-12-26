@@ -4,6 +4,9 @@
 
 ## Writeups
 
+- [switchboard](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/switchboard)
+	> kUAF and double-free in ``kmalloc-cg-32`` without ``CONFIG_SLAB_FREELIST_HARDENED``
+ 
 - [starshard core](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/uni.2025.starshard.core)
 	> leverage UAF to craft a malicious FILE and overwrite `_wide_data` vtable to call an arbitrary function
  
