@@ -4,20 +4,43 @@
 
 ## Writeups
 
+<details>
+	<summary><strong>Kernel</strong></summary>
+
 - [switchboard](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/switchboard)
+  
 	> kUAF and double-free in ``kmalloc-cg-32`` without ``CONFIG_SLAB_FREELIST_HARDENED``
- 
+
+</details>
+
+<details>
+	<summary><strong>UAF / Arbitrary Write</strong></summary>
+	
 - [starshard core](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/uni.2025.starshard.core)
 	> leverage UAF to craft a malicious FILE and overwrite `_wide_data` vtable to call an arbitrary function
  
 - [magic scrolls](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.magic.scrolls.heap)
   	> OOB write to achieve arb read/free into tcache poisoning via fake chunk
-
-- [sound of silence](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.sound.of.silence)
-	> rop chain, register reuse
+   
+- [house of force](https://github.com/Iokete/writeups/tree/main/pwn/techniques/house.of.force)
+	
+ 	> top chunk size corruption to achieve arbitrary write, rce via `__malloc_hook` overwrite
 
 - [gestorcuentas](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/tls.dtor.overwrite.gestorcuentas)
 	> arbitrary write TLS Storage `dtor_list` overwrite to achieve RCE
+
+- [wowsay](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/wowsay)
+  	> blind pwn, fmt str
+
+</details>
+
+
+<details>
+	<summary><strong>Stack</strong></summary>
+	
+- [sound of silence](https://github.com/Iokete/writeups/tree/main/pwn/hackthebox/htb.sound.of.silence)
+	> rop chain, register reuse
+
 
 - [kebab amigo II](https://github.com/Iokete/writeups/tree/main/pwn/urjc.ctf.course/kebab.amigo.ii.rop)
 	> incorrect `scanf` formatting, buffer overflow, ret2libc
@@ -25,15 +48,10 @@
 - [story contest](https://github.com/Iokete/writeups/tree/main/pwn/heroctf.2025/storycontest)
     > race condition to bypass size check, rop chain, ret2win
 
-- [house of force](https://github.com/Iokete/writeups/tree/main/pwn/techniques/house.of.force)<br>
-	
- 	> top chunk size corruption to achieve arbitrary write, rce via `__malloc_hook` overwrite
-
-- [wowsay](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/wowsay)
-  	> blind pwn, fmt str
-
 - [cursed format](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/cursed.format)
 	> rop chain, fmt str
+
+ </details>
 
 ## Useful resources 
 
