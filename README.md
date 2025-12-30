@@ -11,6 +11,11 @@
   
 	> kUAF and double-free in ``kmalloc-cg-32`` without ``CONFIG_SLAB_FREELIST_HARDENED``
 
+- [h_wix_p](https://github.com/Iokete/writeups/tree/main/pwn/hxp2025/h_wix_p)
+  
+	> arbitrary null 4-byte write in `tty_ioctl` TIOCINQ implementation in FiwixOS
+
+
 </details>
 
 <details>
