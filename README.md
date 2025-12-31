@@ -15,14 +15,6 @@
   
 	> arbitrary null 4-byte write in `tty_ioctl` TIOCINQ implementation in FiwixOS
 
-- [orakel-von-hxp](https://github.com/Iokete/writeups/tree/main/pwn/hxp2025/orakel-von-hxp)
-  
-	> Stack buffer overflow in LM3S6965EVB board (ARM Cortex-M3), shellcode to read from UART1
-
-- [cassandra-von-hxp](https://github.com/Iokete/writeups/tree/main/pwn/hxp2025/cassandra-von-hxp)
-  
-	> Phase 2 for orakel-von-hxp: Stack buffer overflow in LM3S6965EVB board (ARM Cortex-M3), shellcode to enable & read from UART1
-
 </details>
 
 <details>
@@ -63,6 +55,19 @@
 	> rop chain, fmt str
 
  </details>
+
+<details>
+	<summary><strong>Other architectures</strong></summary>
+	
+- [orakel-von-hxp](https://github.com/Iokete/writeups/tree/main/pwn/hxp2025/orakel-von-hxp)
+  
+	> Stack buffer overflow in LM3S6965EVB board (ARM Cortex-M3), shellcode to read from UART1
+
+- [cassandra-von-hxp](https://github.com/Iokete/writeups/tree/main/pwn/hxp2025/cassandra-von-hxp)
+  
+	> Phase 2 for orakel-von-hxp: Stack buffer overflow in LM3S6965EVB board (ARM Cortex-M3), shellcode to enable & read from UART1
+
+</details>
 
 ## Useful resources 
 
