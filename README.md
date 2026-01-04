@@ -6,6 +6,10 @@
 
 <details>
 	<summary><strong>Kernel</strong></summary>
+	
+- [kerbab](https://github.com/Iokete/writeups/tree/main/pwn/hackon/kerbab)
+
+	> Craft a malicious .so to exploit an off-by-null vuln into off-by-one in SLUB to overwrite ``current->thread_info.flags`` to disable ``SECCOMP`` and read the flag.
 
 - [switchboard](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/switchboard)
   
