@@ -223,7 +223,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 	* https://github.com/u1f383/writeup/blob/main/learning/Qemu.md (Good note about QEMU but mostly in Chinese)
 	* https://phrack.org/issues/70/5 (QEMU Escape Study Case - Good for understanding QEMU vulnerabilities)
 	* https://richardweiyang-2.gitbook.io/understanding_qemu/ (Another QEMU note)
-- QEMU Escape Chanllenges (best choice):
+- QEMU Escape Challenges (best choice):
 	* https://ctftime.org/writeup/37930 (Best for beginners)
 	* https://dreamhack.io/wargame/challenges/1353 (Learn how to reverse a QEMU binary)
 	* https://github.com/nobodyisnobody/write-ups/blob/main/bi0sCTF.2024/pwn/virtio-note/README.md (Dealing with VirtIO device)
