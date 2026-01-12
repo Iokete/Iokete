@@ -7,6 +7,10 @@
 <details>
 	<summary><strong>Kernel</strong></summary>
 	
+- [extended-eBPF](https://github.com/Iokete/writeups/tree/main/pwn/uoftctf2026/extended-ebpf)
+
+	> Take advantage of a vulnerable eBPF verifier patch to abuse a vulnerability in the `scalar_min_max_lsh` implementation to create a confusion register and leverage an OOB read/write to LPE with no ALU sanitation.
+	
 - [kerbab](https://github.com/Iokete/writeups/tree/main/pwn/hackon/kerbab)
 
 	> Craft a malicious .so to exploit an off-by-null vuln into off-by-one in SLUB to overwrite ``current->thread_info.flags`` to disable ``SECCOMP`` and read the flag.
