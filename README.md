@@ -9,7 +9,7 @@
 	
 - [extended-eBPF](https://github.com/Iokete/writeups/tree/main/pwn/uoftctf2026/extended-ebpf)
 
-	> Take advantage of a vulnerable eBPF verifier patch to abuse a vulnerability in the `update_alu_sanitation_state` implementation to create a confusion register via `scalar_min_max_lsh` and leverage an OOB read/write to LPE with no ALU sanitation.
+	> Take advantage of a vulnerable eBPF verifier patch to abuse a vulnerability in the `is_safe_to_compute_dst_reg_range` implementation to create a confusion register via `scalar_min_max_lsh` and leverage an OOB read/write to LPE with no ALU sanitation.
 	
 - [kerbab](https://github.com/Iokete/writeups/tree/main/pwn/hackon/kerbab)
 
