@@ -206,7 +206,9 @@ Collection of different blogs posts, links, websites and other resources I have 
 <details open>
 	
 <summary><strong>VM Escape</strong></summary>
-	
+
+(ty to [5o1z](https://github.com/5o1z) for the link collection)
+
 - QEMU basic concepts: https://hackmd.io/@Broder/qemu
 - QEMU Internal:
 	* https://blog.vmsplice.net/search?q=QEMU+Internals
