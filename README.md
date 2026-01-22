@@ -236,3 +236,52 @@ Collection of different blogs posts, links, websites and other resources I have 
 	* https://github.com/w0lfzhang/vmescape (Collection of VM Escape Challenges)
 
 </details>
+
+<details>
+
+<summary><strong>V8 Exploitation</strong></summary>
+
+- https://v8.dev/
+- https://v8.dev/blog/sandbox
+- https://v8.dev/blog/pointer-compression
+- https://v8docs.nodesource.com/
+- https://source.chromium.org/chromium/chromium/src/+/main:v8/src/
+- https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit?tab=t.0#heading=h.xzptrog8pyxf
+- https://docs.google.com/document/d/1V3sxltuFjjhp_6grGHgfqZNK57qfzGzme0QTk0IXDHk/edit?tab=t.0#heading=h.xzptrog8pyxf
+- https://github.com/v8/v8/tree/main
+- https://phrack.org/issues/70/9#article
+- https://jhalon.github.io/chrome-browser-exploitation-1/
+- https://jhalon.github.io/chrome-browser-exploitation-2/
+- https://jhalon.github.io/chrome-browser-exploitation-3/
+- https://pwn.college/quarterly-quiz/v8-exploitation/
+- https://www.ctfiot.com/67900.html
+- https://blog.ju256.de/posts/kitctfctf22-date/
+- https://anvbis.au/posts/code-execution-in-chromiums-v8-heap-sandbox/
+- https://youtu.be/Uyrv2F6wI-E
+- https://vigneshsrao.github.io/posts/play-with-spidermonkey/
+- https://ssd-disclosure.com/turborand-v8-type-confusion-private-property-leak/
+- https://medium.com/@numencyberlabs/use-wasm-to-bypass-latest-chrome-v8sbx-again-639c4c05b157
+- https://www.madstacks.dev/posts/V8-Exploitation-Series-Part-1/
+- https://d0ublew.github.io/notes/pwn/v8/
+- https://github.com/danbev/learning-v8/tree/master
+- https://tutorialboy.medium.com/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-69b17807c04a
+- https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/
+- https://github.com/xv0nfers/V8-sbx-bypass-collection?tab=readme-ov-file 
+- https://cwresearchlab.co.kr/category/Research 
+- https://ir0nstone.gitbook.io/notes/binexp/browser-exploitation
+- https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/
+- https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/
+- https://www.jaybosamiya.com/blog/2019/01/02/krautflare/
+- https://seb-sec.github.io/posts/archive/ductf2020/2020-09-28-ductf2020-pwn-or-web.html
+- https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html
+- http://mem2019.github.io/jekyll/update/2022/02/06/DiceCTF-Memory-Hole.html
+- https://ssd-disclosure.com/turborand-v8-type-confusion-private-property-leak/
+- https://pwn.report/2024/05/30/sasctf-pwn-writeups.html
+- https://faraz.faith/2019-12-13-starctf-oob-v8-indepth/
+- https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/
+- https://www.jaybosamiya.com/blog/2019/01/02/krautflare/
+- https://www.willsroot.io/2021/04/turboflan-picoctf-2021-writeup-v8.html
+
+(courtesy of an user called Quixel in pwn.college discord)
+
+</details>
