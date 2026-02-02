@@ -57,7 +57,7 @@
 	> incorrect `scanf` formatting, buffer overflow, ret2libc
 
 - [story contest](https://github.com/Iokete/writeups/tree/main/pwn/heroctf.2025/storycontest)
-    > race condition to bypass size check, rop chain, ret2win
+   > race condition to bypass size check, rop chain, ret2win
 
 - [cursed format](https://github.com/Iokete/writeups/tree/main/pwn/pctf2025/cursed.format)
 	> rop chain, fmt str
@@ -81,7 +81,7 @@
 
 Collection of different blogs posts, links, websites and other resources I have used (and still use) to learn new techniques
 
-<details open>
+<details>
 	<summary><strong>Stack</strong></summary>
 	
 - [Stack Data Structure](https://www.programiz.com/dsa/stack)
@@ -103,7 +103,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 	
 </details>
 
-<details open>
+<details>
 <summary><strong>General</strong></summary>
 	
 - [Nightmare](https://guyinatuxedo.github.io/)
@@ -123,7 +123,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 	
 </details>
 		
-<details open>
+<details>
 	<summary><strong>Fuzzing</strong></summary>
 
 - [Fuzzing.in](https://fuzzing.in/)
@@ -131,7 +131,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 	
 </details>
 
-<details open>
+<details>
 <summary><strong>Kernel</strong></summary>
 	
 - [So You Wanna Pwn The Kernel?](https://sam4k.com/so-you-wanna-pwn-the-kernel/#ego)
@@ -151,7 +151,7 @@ Collection of different blogs posts, links, websites and other resources I have 
   
 </details>
 
-<details open>
+<details>
 	
 <summary><strong>Heap</strong></summary>
 
@@ -164,7 +164,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>FSOP</strong></summary>
 	
 - [Roderick Chan - house of apple 1](https://roderickchan.github.io/zh-cn/house-of-apple-%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84glibc%E4%B8%ADio%E6%94%BB%E5%87%BB%E6%96%B9%E6%B3%95-1/)
@@ -175,7 +175,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 
 </details>
 
-<details open>
+<details>
 <summary><strong>Shellcoding</strong></summary>
 	
 - [x64.syscall.sh](https://x64.syscall.sh/): Your cheat sheet for syscalls. A glance here, and you're always ahead.
@@ -185,7 +185,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 
 </details>
 
-<details open>
+<details>
 	
 
 <summary><strong>Windows</strong></summary>
@@ -196,7 +196,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 - [https://fuzzysecurity.com/tutorials.html](https://fuzzysecurity.com/tutorials.html)
 </details>
 
-<details open>
+<details>
 	
 <summary><strong>ARM</strong></summary>
 
@@ -207,7 +207,7 @@ Collection of different blogs posts, links, websites and other resources I have 
   
 </details>
 
-<details open>
+<details>
 	
 <summary><strong>VM Escape</strong></summary>
 
