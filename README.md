@@ -7,6 +7,10 @@
 <details>
 	<summary><strong>Kernel</strong></summary>
 	
+- [The Lord of the Notes](https://github.com/Iokete/writeups/tree/main/pwn/hackon/2026/lordofthenotes)
+
+	> Abuse a vulnerability in the `regs_refine_cond_op` implementation to trick the verifier via ``BPF_JLT`` and take advantage of ``bpf_ringbuf_output`` and ``skb_load_bytes`` to bypass ALU Sanitation and leverage OOB r/w to LPE.
+	
 - [extended-eBPF](https://github.com/Iokete/writeups/tree/main/pwn/uoftctf2026/extended-ebpf)
 
 	> Take advantage of a vulnerable eBPF verifier patch to abuse a vulnerability in the `is_safe_to_compute_dst_reg_range` implementation to create a confusion register via `scalar_min_max_lsh` and leverage an OOB read/write to LPE with no ALU sanitation.
