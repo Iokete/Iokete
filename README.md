@@ -4,7 +4,7 @@
 
 ## Writeups
 
-<details>
+<details open>
 	<summary><strong>Kernel</strong></summary>
 	
 - [The Lord of the Notes](https://github.com/Iokete/writeups/tree/main/pwn/hackon/2026/lordofthenotes)
