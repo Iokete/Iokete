@@ -289,3 +289,16 @@ Collection of different blogs posts, links, websites and other resources I have 
 (courtesy of an user called Quixel in pwn.college discord)
 
 </details>
+
+<details>
+<summary><strong>X OS</strong></summary>
+
+
+- [MacOS Advent Calendar](https://www.youtube.com/watch?v=WxOZgr0Ld9o)
+- https://es.slideshare.net/slideshow/macos-memory-allocator-libmalloc-exploitation/179588189?_gl=1*el8vch*_gcl_au*Nzg3MjMzMzA4LjE3NjgzMzQ4NDI.
+- https://pacmanattack.com/
+- https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/build/build.html#//apple_ref/doc/uid/TP30000905-CH221-TPXREF111
+- https://gist.github.com/0xdevalias/256a8018473839695e8684e37da92c25
+- https://www.youtube.com/watch?v=jqrw-VpYekY
+	
+</details>
