@@ -1,6 +1,9 @@
 # lkt
 
 - Welcome, here you will find all my pwn related writeups and resources.
+## Articles
+
+- [TheGrue2: GamePwn challenge creation walkthrough (ES)](https://github.com/Iokete/writeups/tree/main/pwn/hackon/2026/thegrue2)
 
 ## Writeups
 
