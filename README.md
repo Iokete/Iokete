@@ -303,6 +303,7 @@ Collection of different blogs posts, links, websites and other resources I have 
 - https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/build/build.html#//apple_ref/doc/uid/TP30000905-CH221-TPXREF111
 - https://gist.github.com/0xdevalias/256a8018473839695e8684e37da92c25
 - https://www.youtube.com/watch?v=jqrw-VpYekY
+- [A step-by-step guide to writing an iOS kernel exploit](https://alfiecg.uk/2024/09/24/Kernel-exploit.html)
 	
 </details>
 
@@ -315,7 +316,6 @@ Collection of different blogs posts, links, websites and other resources I have 
 - [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html?m=1)
 - [CVE-2022-22265 Samsung npu driver](https://soez.github.io/posts/CVE-2022-22265-Samsung-npu-driver/)
 - [Accessing Samsung Phone (Device ROM) firmware files](https://www.mobilehackinglab.com/blog/mobile-hacking-accessing-samsung-firmware-files)
-- [A step-by-step guide to writing an iOS kernel exploit](https://alfiecg.uk/2024/09/24/Kernel-exploit.html)
 - [CVE-2024-44068: Samsung m2m1shot_scaler0 device driver page use-after-free in Android](https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2024/CVE-2024-44068.html)
 - [Defects-in-Depth: Analyzing the Integration of Effective Defenses against One-Day Exploits in Android Kernels](https://www.usenix.org/system/files/usenixsecurity24-maar-defects.pdf)
 - [2022 - Monitoring Surveillance Vendors: A Deep Dive into In-the-Wild Android Full Chains in 2021](https://www.youtube.com/watch?v=0Vv5kLj0tz4&t=1282s)
