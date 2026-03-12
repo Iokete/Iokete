@@ -305,3 +305,29 @@ Collection of different blogs posts, links, websites and other resources I have 
 - https://www.youtube.com/watch?v=jqrw-VpYekY
 	
 </details>
+
+<details>
+	<summary><strong>Android VR</strong></summary>
+
+- [2022 - p0 - Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
+- [Pwning Pixel 6 with a leftover patch](https://github.blog/2023-04-06-pwning-pixel-6-with-a-leftover-patch/)
+- [The Art of Exploiting UAF by Ret2bpf in Android Kernel](https://i.blackhat.com/EU-21/Wednesday/EU-21-Jin-The-Art-of-Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-wp.pdf) #netfilter #CVE-2021-0399
+- [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html?m=1)
+- [CVE-2022-22265 Samsung npu driver](https://soez.github.io/posts/CVE-2022-22265-Samsung-npu-driver/)
+- [Accessing Samsung Phone (Device ROM) firmware files](https://www.mobilehackinglab.com/blog/mobile-hacking-accessing-samsung-firmware-files)
+- [A step-by-step guide to writing an iOS kernel exploit](https://alfiecg.uk/2024/09/24/Kernel-exploit.html)
+- [CVE-2024-44068: Samsung m2m1shot_scaler0 device driver page use-after-free in Android](https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2024/CVE-2024-44068.html)
+- [Defects-in-Depth: Analyzing the Integration of Effective Defenses against One-Day Exploits in Android Kernels](https://www.usenix.org/system/files/usenixsecurity24-maar-defects.pdf)
+- [2022 - Monitoring Surveillance Vendors: A Deep Dive into In-the-Wild Android Full Chains in 2021](https://www.youtube.com/watch?v=0Vv5kLj0tz4&t=1282s)
+- [2022 Android Universal Root: Exploiting Mobile GPU / Command Queue Drivers](https://www.youtube.com/watch?v=kEl5qbLZVeY&t=840s)
+- [Two Bugs With One PoC: Rooting Pixel 6 From Android 12 to Android 13](https://www.youtube.com/watch?v=8V_OEGojBPE)
+- [KernelGP: Racing Against the Android Kernel](https://www.youtube.com/watch?v=DJBGu2fSSZg&list=PLYvhPWR_XYJk0p40BrX7K2z-_j_tJmvhc&index=18&t=1084s)
+- [Android In-The-Wild: Unexpectedly Excavating a Kernel Exploit](https://www.youtube.com/watch?v=lnK1iACJ3-c&list=PLYvhPWR_XYJk0p40BrX7K2z-_j_tJmvhc&index=15)
+- [Exploiting CVE-2025-21479 on a Samsung S23](https://xploitbengineer.github.io/CVE-2025-21479)
+- [Dangling pointers, fragile memory—from an undisclosed vulnerability to Pixel 9 Pro privilege escalation](https://dawnslab.jd.com/Pixel_9_Pro_EoP/)
+- https://www.mobilehackinglab.com/course/lab-faulty-vector
+- https://www.mobilehackinglab.com/course/lab-vector
+- https://www.mobilehackinglab.com/course/lab-kernel-net
+- https://xairy.io/articles/pixel-kgdb#-introduction
+
+</details>
