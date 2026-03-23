@@ -298,6 +298,8 @@ Collection of different blogs posts, links, websites and other resources I have 
 
 
 - [MacOS Advent Calendar](https://www.youtube.com/watch?v=WxOZgr0Ld9o)
+	* In order: Source code, Mach-O binary structure, PAC, dyld_shared_cache, userspace process layout, disable SIP, Kernel Boot Args, XNU kernel source code definition, PAC practical, Kernel Address obfuscation, KAUTH,
+MAC, Sandboxing userland, lldb usage, remote kernel panic dump, kdk and lldb to debug kernel, mach ports and mach port names, mach messages, mach exceptions, Guarded Exception Levels and PPL, mitigations, mach port mitigations, read only allocator, XNU kernel heap (kalloc types, heap and SAD_FENG_SHUI) 
 - https://es.slideshare.net/slideshow/macos-memory-allocator-libmalloc-exploitation/179588189?_gl=1*el8vch*_gcl_au*Nzg3MjMzMzA4LjE3NjgzMzQ4NDI.
 - https://pacmanattack.com/
 - https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/build/build.html#//apple_ref/doc/uid/TP30000905-CH221-TPXREF111
