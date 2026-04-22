@@ -1,13 +1,14 @@
-# lkt
+# lkt 📯
 
-- Welcome, here you will find all my pwn related writeups and resources.
-## Articles
+- RE & Linux Exploiting
+- Cybersecurity Engineering
+- Currently learning XNU, macOS security internals.
 
-- [TheGrue2: GamePwn challenge creation walkthrough (ES)](https://github.com/Iokete/writeups/tree/main/pwn/hackon/2026/thegrue2)
+All the writeups posted here are at [lokete.net](lokete.net).
 
 ## Writeups
 
-<details open>
+<details>
 	<summary><strong>Kernel</strong></summary>
 	
 - [The Lord of the Notes](https://github.com/Iokete/writeups/tree/main/pwn/hackon/2026/lordofthenotes)
