@@ -4,7 +4,7 @@
 - Cybersecurity Engineering
 - Currently learning XNU, macOS security internals.
 
-All the writeups posted here are at [lokete.net](lokete.net).
+All the writeups posted here are at [lokete.net](https://lokete.net)
 
 ## Writeups
 
